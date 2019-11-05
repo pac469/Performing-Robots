@@ -21,9 +21,9 @@
 * "Wall-E Reflection: When Robots are Human and Human are Robots."
 * <https://sites.duke.edu/ambiguouslyhuman/2016/03/09/wall-e-reflection>
 * Takeaways:
-* Human in the movie have a methodical predictable behaviour, while robots are more spontaneous.
-* In the  Human-Object Spectrum, Robots are closer human, Human are closer to objects. 
-* Robots are relatable cause they develop their own personality.
+ 1. Human in the movie have a methodical predictable behaviour, while robots are more spontaneous.
+ 2. In the  Human-Object Spectrum, Robots are closer human, Human are closer to objects. 
+ 3. Robots are relatable cause they develop their own personality.
 
 
 ##### Similarities of Cuteness: Robots vs Dogs
