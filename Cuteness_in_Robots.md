@@ -11,10 +11,14 @@
 * Human
 * Childish
 * Dogish 
+![Wall-E](https://github.com/pac469/Performing-Robots/Walle.png)
+![Baymax](https://github.com/pac469/Performing-Robots/Baymax.png)
 
 ##### How to Design a Cute Robot
 * The elements of Cute Character Design by Sasha Preuss
 * <https://design.tutsplus.com/articles/the-elements-of-cute-character-design--vector-3533>
+![Waddles](https://github.com/pac469/Performing-Robots/Waddles.png)
+![Mooncake](https://github.com/pac469/Performing-Robots/MoonCake.png)
 
 
 ##### Behaviour of the Robot
@@ -31,17 +35,16 @@
 * <https://www.rover.com/blog/science-cute-dogs/>
 
 
-
-
-##### Thank You, Any Questions? 
-
-
+![Cute Dog](https://github.com/pac469/Performing-Robots/Cutedog.png)
+ 
 
 
 
 
 
-* Links to the Articles. 
+
+
+ 
 
 
 
