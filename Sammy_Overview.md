@@ -1,6 +1,6 @@
 # S.A.M.M.Y 
 ##### Performing Robots Fall 2019
-##Who is S.A.M.M.Y?
+## Who is S.A.M.M.Y?
 *S.A.M.M.Y is a performative Robot able to simulate the human emotion of falling in Love.
 * At first impression, S.A.M.M.Y will pretend to be an interactive music Robot. But when a person touches his heart, 
 he will recreate an exaggerated behaviour of a  person falling in love for someone.
