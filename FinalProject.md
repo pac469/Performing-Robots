@@ -67,7 +67,7 @@ a carboard head was added at the top of the body cube. Two neopixels and another
 *![DC Motors](DCmotors.png)
 
 ### System Diagram Hardware
-*![System Digram Hardware)(SDH.png)
+*![System Digram Hardware](SDH.png)
 
 
 ### Code
