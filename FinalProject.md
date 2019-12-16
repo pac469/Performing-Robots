@@ -378,7 +378,7 @@ a carboard head was added at the top of the body cube. Two neopixels and another
   ```
   ##### Processing
   ##### Processing Main Code
-  ''' java
+  ''' Java
   import processing.serial.*;
 
 Serial myPort;  // Create object from Serial class
@@ -465,8 +465,9 @@ void keyPressed(){
    }
 }
 ``` 
+
 ##### Processing classes 
-``` java
+``` bash
 // Buttons to send commands to arduino
 class Button{
   String Command;
