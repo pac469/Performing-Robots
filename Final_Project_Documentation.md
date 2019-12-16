@@ -3,25 +3,13 @@
 ### Concept and Description of the Performance
 
 Sammy intended to be a performance that explores human relationships with Robots. Through a short story, this performance 
-attempts to make the public care about Sammy as if it was alive and feel that its relationships with the human characters 
-are genuine. The short story consists of three characters(Sammy,Sammy's friend, and Sammy's romantic interest) and is divided
-three acts. In the first act, using the song "You've got in friend in me" from Toy story in the background, the relationship 
-between Sammy and Sammy's friend is established through showing both characters happily playing a game together. I found effective using 
-Toy Story's song because Toy Story is one of the most famous stories that succesfully explores human attachment with objects and it
-will create a nostalgic sensation in the public of a time when they develop attachment to a particular object.
-In the second act, Sammy shows his spontaneity, desires and personality. Sammy falls in love at first sight and  try
-to flirt with its romantic interest in a  naive and adorkable way. Sammy asks help from his friend to approach its
+attempts to make the public care about Sammy( a robot) as if it was alive and feel that its relationships with the human characters are genuine. The short story consists of three characters(Sammy,Sammy's friend, and Sammy's romantic interest) and is dividedthree acts. In the first act, using the song "You've got in friend in me" from Toy story in the background, the relationship between Sammy and Sammy's friend is established through showing both characters happily playing a game together. I found effective using Toy Story's song because Toy Story is one of the most famous stories that succesfully explores human attachment with objects and itwill create a nostalgic sensation in the public of a time when they develop attachment to a particular object.In the second act, Sammy shows his spontaneity, desires and personality. Sammy falls in love at first sight and  tryto flirt with its romantic interest in a  naive and adorkable way. Sammy asks help from his friend to approach its
 romantic interest and its frie  provide with objects that Sammy then brings to its Romantic Interest, hoping this 
 causes a good impression. In the third act, Sammy shows that it is in conflic with itself. After some rejections, 
 Sammy's Romantic Interest finally agrees to go out with him, but that means that he has to stop spending time with his friend. 
-This causes that when Sammy is about to leave with its Romantic Interest, Sammy looks back at his friend. And that glance Sammy
-and Sammy's friend share is opened to interpretation of the public. 
+This causes that when Sammy is about to leave with its Romantic Interest, Sammy looks back at his friend. And that glance Sammyand Sammy's friend share is opened to interpretation of the public. 
 
-This performance beyond exploring human attachment also attempt to answer the question "what make us humans?". Sammy, in essence, is only cables,
-wood, code, electricity. So, is it possible that the public perceive him as alive?. If public can relate with Sammy and care
-about it, it is a sign that Sammy is perceived as alive. The strategy used to create this perceptio is that the animations 
-and movement of Sammy are intended to portrayed desire, attachment, conflict and vulnerability. Which are intrinsic attributes
-of human beings. 
+This performance beyond exploring human attachment also attempt to answer the question "what make us humans?". Sammy, in essence, is only cables,wood, code, electricity, super glue, etc. So, is it possible that the public perceive him as alive?. If public can relate with Sammy and care about it, it is a sign that Sammy is perceived as alive. The strategy used to create this perceptio is that the animations and movement of Sammy are intended to portrayed desire, attachment, conflict and vulnerability. Which are intrinsic attributes of human beings. 
 
 ### Description of Sammy
 Sammy have two main attributes. It can move and it can show animations. Animations are made through two panels(its belly and mouth)
@@ -526,6 +514,28 @@ class Button{
 
 }
 ```
+
+### Problems Discussion
+##### Problem 1: Connecting to Bluetooth
+As I knew I needed several animations and movements, I thought it may have been useful to make my own control panel in Processing and control the robot from my computer through bluetooth comunnication. Just connecting once to bluetooth end up being a hassle that took me a whole weekend. The reason why I couldn't connect was that I was not running the processing script properly that connects to the bluetooth port. At the end, I decided to drop this bluetooth communciation due to the lack of reliability. My computer only connected properly 1 out of 2 times, so I considered it was not reliable enought to performed. Hence, I decided to get a usb extension cable and keep the translation movement of the robot in shor distances. 
+
+##### Problem 2: Connecting Everything 
+I was intimadated with this issue since the beginning of the project. There were so many possibilities to connect all my components and all of them seemed tedious and complicated. First, I did an attempt to connect everything using redboards. I decided to do this because I feel comfortable working with breadboards. The outcome was a horrific mess of cablesm, although apparently everything seemed to work succesfully, It was not convenient to leave that mess of cables in case there was the need to fix something. My second attempt was adding an arduino shape shield on top of the motorshield. So I decided to solder everything again and due to my lack of organization I ended up again with a mess of cables that this time it was not working at all. So, I solder everything again in my motorshield and this time things were working alright, althouhgh it was not as clean as I wanted. 
+
+Regarding the logistics of networking everything, My professor showed me how to do Hardware diagrams that helpmed to have a cleared picture of the different ways I was to able to connect the different compenents with the Arduino Pins. 
+
+At the end, I feel that I learned several techniques to keed organized and clear the connections when I am working with many different components.
+
+##### Problem 3: LED Strips Soldering 
+This was the most frustating issue of all and I still do not have a better explanation rather than I am really bad at soldering. No matter how many times I solder and resolder and solder again all my LED Strips connections there was always an issue that did not allow my LED Strips work succesfully every time. Sometimes they worked perfectly the way I wanted, sometimes they suddenly stopped working out of nowhere. I spend more than a whole day just working with this issue. At the end, It turned out that also my powerbank did not have enough power to all the LEDs I was using, so when I decreased the brightness the LED strips ended up working better, although I still often had to solder again some connections among LED strips. 
+
+##### Problem 4: Not working efficiently
+The amount of of time I dedicated  trying to build this robot was incredible huge. Just in the one weekend I worked for 20 hours in the robot and all the progress I did was making the Servos working. I spend two days just making the LED strips woks, I spend two days making the bluetooth connects. At the end I am definitely sure I dedicated more than one houndred hours to this robot and I still was not able to make it work properly. My issues were that I did not have a concrete whole plan, I was figuring it out things in the way. I spent so much time debugging and trying to find a mistake that it was really obvious. I think the main reason why I dedicated so much time withouth significant progress is that I was not confident enough in my engineering skills and every single step in the building process of the robot was also a signigicant emotianal struggle. I feel what could have solved my problem would have been teaming up with someone. Just having someone else would created a emotional support that would have made me so much efficient to work. But, I also think that this is a superficial solution to the issue, becuase I can not always depend on having partner to being more efficient. So, my guess is that there many things that I have to improve as a person in order to improve my efficiently. One of the first one that came into my mind is communication. I should have communicated the emotional hassle that building the robot was being. Yet, I also think this is one of the solutions that are easy to say but hard to do. I feel that the I still should a further analysis in order to have a a more accurate reading of my performance during this project.
+
+
+
+
+
 
 
 
