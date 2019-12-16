@@ -1,6 +1,6 @@
-#Final Project: Sammy
+# Final Project: Sammy
 
-###Concept and Description of the Performance
+### Concept and Description of the Performance
 
 Sammy intended to be a performance that explores human relationships with Robots. Through a short story, this performance 
 attempts to make the public care about Sammy as if it was alive and feel that its relationships with the human characters 
@@ -71,7 +71,7 @@ a carboard head was added at the top of the body cube. Two neopixels and another
 
 
 ### Code
-#####Arduino 
+##### Arduino 
 ```bash
       //Neoppixels
       #include <Adafruit_NeoPixel.h>
@@ -376,8 +376,8 @@ a carboard head was added at the top of the body cube. Two neopixels and another
         }
         
   ```
-  #####Processing
-  ####### Processing Main Code
+  ##### Processing
+  ##### Processing Main Code
   ''' java
   import processing.serial.*;
 
@@ -465,7 +465,7 @@ void keyPressed(){
    }
 }
 ``` 
-####### Processing classes 
+##### Processing classes 
 ``` java
 // Buttons to send commands to arduino
 class Button{
