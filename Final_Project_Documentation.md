@@ -30,7 +30,7 @@ a carboard head was added at the top of the body cube. Two neopixels and another
 *![Arm2](LeftArm.jpg)
 ##### Stage 3
 *![Head] (PuttingHead.jpg)
-*![Head] (Head.jpg)
+*![Head] (Head (1).jpg)
 ##### Sammy Finshed
 *![Sammy1](Done.jpg)
 
