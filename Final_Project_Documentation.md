@@ -22,23 +22,18 @@ a carboard head was added at the top of the body cube. Two neopixels and another
 
 ### Overall Pictures 
 ##### Stage 1
-*![Stage1](Stage1.png)
-*![Arduino](Arudino.png)
-*![Base](Base.png)
+*![Stage1](Base.jpg)
+*![FinalBase](FinalBase.jpg)
+*![Base](Base2.jpg)
 ##### Stage 2
-*![Stage2](Stage2.png)
-*![Arm1](Arm1.png)
-*![Arm2](Arm2.png)
-*![Panel](Panel.png)
-*![Heart](Heart.png)
+*![Arm1](RightArm.jpg)
+*![Arm2](LeftArm.jpg)
 ##### Stage 3
-*![Stage3] (Stage3.png)
-*![Eyes] (Eyes.png)
-*![Mouth] (Mouth.png)
+*![Head] (PuttingHead.jpg)
+*![Head] (Head.jpg)
 ##### Sammy Finshed
-*![Sammy1](Sammy1.png)
-*![Sammy2](Sammy2.png)
-*![Sammy3](Sammy3.png)
+*![Sammy1](Done.jpg)
+
 
 
 ### Important Parts
@@ -50,12 +45,11 @@ a carboard head was added at the top of the body cube. Two neopixels and another
 * Arduino Uno
 
 ### Pictures of the Electronics
-*![Motorshield](Motorshield.png)
-*![Ledstrips](Ledstrips.png)
-*![DC Motors](DCmotors.png)
+*![Motorshield](Motorshield.jpg)
+
 
 ### System Diagram Hardware
-*![System Digram Hardware](SDH.png)
+*![System Digram Hardware](SDH.jpg)
 
 
 ### Code
