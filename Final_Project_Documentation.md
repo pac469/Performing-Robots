@@ -45,11 +45,11 @@ a carboard head was added at the top of the body cube. Two neopixels and another
 * Arduino Uno
 
 ### Pictures of the Electronics
-*![Motorshield](Motorshield.jpg)
+*![Motorshield](MotorShield.jpg)
 
 
 ### System Diagram Hardware
-*![System Digram Hardware](SDH.jpg)
+*![System Digram Hardware](SHD.jpg)
 
 
 ### Code
